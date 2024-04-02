@@ -1,7 +1,5 @@
 # iOS Development Resources
 
-Welcome to my curated list of iOS development resources! Whether you're a seasoned developer or just starting out, these materials will help you stay informed and up-to-date with the latest trends and technologies in iOS development.
-
 ## API
 
 - [ ] [Anatomy of HTTP Request](https://sematext.com/glossary/http-requests/#:~:text=An%20HTTP%20request%20is%20made%20out%20of%20three%20components,line%2C%20headers%20and%20message%20body.)
